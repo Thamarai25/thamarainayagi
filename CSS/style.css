@@ -1,0 +1,26 @@
+/* slector{
+ property:value;
+} */
+
+p{
+    color: brown;
+}
+
+h1{
+            background-color: rgb(5, 4, 7);
+        }
+        p{
+            color: blue;
+            font-style:italic;
+            font-family:'Times New Roman',Timer,serif;
+            font-weight:bold;
+            font-size:25px;
+            text-decoration :underline;
+        }
+        -link{
+            color: aqua(86,0,255);
+            text-decoration: none;
+        * {
+            color: rgb(118, 118, 238);
+        }
+        </style>
